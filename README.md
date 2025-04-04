@@ -12,7 +12,6 @@ By leveraging the power of distributed computing with PySpark, this implementati
 - Supports input graphs in edge list format
 - Greedy coloring heuristic for performance and simplicity
 - Works on undirected graphs
-- Customizable Spark configurations
 - Handles large graphs
 
 ---
